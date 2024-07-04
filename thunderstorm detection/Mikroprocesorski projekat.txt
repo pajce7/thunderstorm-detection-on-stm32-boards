@@ -1,0 +1,5 @@
+https://www.biral.com/product/btd-300-thunderstorm-detector/#product-overview
+https://fire-alert.ca/how-thunderstorms-can-affect-your-fire-alarm-system/
+https://community.st.com/t5/stm32-mcus-embedded-software/rtc-alarm-on-stm32f401rct6/td-p/603137
+https://at3w.com/upload/pdf_producto/CAT_ATSTORM_I.PDF
+BITNO: https://pysteps.readthedocs.io/en/v1.4.1/auto_examples/thunderstorm_detection_and_tracking.html
